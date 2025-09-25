@@ -1,4 +1,4 @@
-# Netlify Next.js + Contentful Minimal Starter
+# Go Quest
 
 ![Screenshot](https://assets.stackbit.com/docs/tutorial-shared-thumb.png)
 
